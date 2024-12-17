@@ -1,4 +1,4 @@
-# Opencv_computer_vision
+# Computer Vision Tasks:
 
 **Image Inpainting**
 
